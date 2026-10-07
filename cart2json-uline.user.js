@@ -9,6 +9,8 @@
 // @match        *://*.uline.ca/*Cart*
 // @match        *://*.uline.mx/*Cart*
 // @grant        GM_setClipboard
+// @updateURL    https://github.com/TechplexEngineer/userscript-uline-cart-export/raw/refs/heads/main/cart2json-uline.user.js
+// @downloadURL  https://github.com/TechplexEngineer/userscript-uline-cart-export/raw/refs/heads/main/cart2json-uline.user.js
 // ==/UserScript==
 
 (function() {
